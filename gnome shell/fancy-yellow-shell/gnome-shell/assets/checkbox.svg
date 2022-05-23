@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   fill="#000000"
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg28"
+   sodipodi:docname="checkbox (copy).svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.125"
+     inkscape:cx="10.739726"
+     inkscape:cy="12.931507"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient909">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop905" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop907" />
+    </linearGradient>
+    <filter
+       id="filter946"
+       x="-0.094335116"
+       y="-0.12629353"
+       width="1.1886702"
+       height="1.2525871"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.39306292"
+         id="feGaussianBlur2" />
+    </filter>
+    <linearGradient
+       id="linearGradient866"
+       x1="11"
+       x2="11"
+       y1="21"
+       y2="4"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#000000"
+         stop-opacity=".35"
+         offset="0"
+         id="stop5" />
+      <stop
+         stop-color="#000000"
+         stop-opacity=".1"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="0"
+       y1="653.96002"
+       x2="0"
+       y2="301.29999"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0a80fd"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#56c5fa"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient909"
+       id="linearGradient911"
+       x1="3"
+       y1="12"
+       x2="21"
+       y2="12"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-9.9644667,-8.2908863)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient927"
+       x1="3"
+       y1="12"
+       x2="21"
+       y2="12"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="256"
+       x2="256"
+       y1="512"
+       y2="26.169001">
+      <stop
+         offset="0"
+         stop-color="#fd5900"
+         id="stop2-3" />
+      <stop
+         offset="1"
+         stop-color="#ffde00"
+         id="stop4-6" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_2_"
+       gradientUnits="userSpaceOnUse"
+       x1="256"
+       x2="256"
+       xlink:href="#lg1"
+       y1="270"
+       y2="0" />
+    <linearGradient
+       id="lg1">
+      <stop
+         offset="0"
+         stop-color="#ffe59a"
+         id="stop7-7" />
+      <stop
+         offset="1"
+         stop-color="#ffffd5"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_3_"
+       gradientUnits="userSpaceOnUse"
+       x1="256"
+       x2="256"
+       xlink:href="#lg1"
+       y1="512"
+       y2="330" />
+    <linearGradient
+       id="SVGID_4_"
+       gradientUnits="userSpaceOnUse"
+       x1="256"
+       x2="256"
+       xlink:href="#lg1"
+       y1="300"
+       y2="150" />
+  </defs>
+  <rect
+     x="4"
+     y="4"
+     width="16"
+     height="16"
+     color="#000000"
+     fill="none"
+     id="rect12" />
+  <rect
+     x="2"
+     y="2"
+     width="20"
+     height="20"
+     rx="4"
+     ry="4"
+     color="#000000"
+     opacity=".12"
+     stroke-width="1.25"
+     style="paint-order:fill markers stroke"
+     id="rect14" />
+  <rect
+     x="3"
+     y="3"
+     width="18"
+     height="18"
+     rx="3"
+     ry="3"
+     color="#000000"
+     fill="#0860f2"
+     stroke-width="1.2857"
+     style="paint-order:fill markers stroke;fill-opacity:1.0;fill:url(#linearGradient927)"
+     id="rect16" />
+  <rect
+     x="-6.9644666"
+     y="-5.2908864"
+     width="18"
+     height="18"
+     rx="3"
+     ry="3"
+     color="#000000"
+     fill="#ffffff"
+     opacity="0.1"
+     stroke-width="1.2857"
+     style="fill:url(#linearGradient911);fill-opacity:1;paint-order:fill markers stroke"
+     id="rect18" />
+  <rect
+     transform="rotate(45)"
+     x="13.79"
+     y="1.1834"
+     width="3"
+     height="1"
+     fill-opacity="0"
+     id="rect22" />
+  <path
+     d="m15.806 9.1937c-0.30486 0-0.60961 0.1158-0.84321 0.3494l-4.2161 4.2161-1.7633-1.761c-0.42502-0.42502-1.1424-0.39264-1.6095 0.07454-0.46719 0.46718-0.50189 1.1869-0.076923 1.6119l2.6066 2.6042 0.0768 0.07686c0.42502 0.42502 1.1424 0.39032 1.6095-0.07686l5.0593-5.0593c0.46719-0.46719 0.46719-1.2192 0-1.6865-0.2336-0.2336-0.53836-0.3494-0.84321-0.3494z"
+     fill="#000000"
+     filter="url(#filter946)"
+     opacity=".15"
+     stroke-width="1.1926"
+     id="path24" />
+  <path
+     d="m15.806 8.2653c-0.30486 0-0.60961 0.1158-0.84321 0.3494l-4.2161 4.2161-1.7633-1.761c-0.42502-0.42502-1.1424-0.39264-1.6095 0.07454-0.46719 0.46718-0.50189 1.1869-0.076923 1.6119l2.6066 2.6042 0.0768 0.07686c0.42502 0.42502 1.1424 0.39032 1.6095-0.07686l5.0593-5.0593c0.46719-0.46719 0.46719-1.2192 0-1.6865-0.2336-0.2336-0.53836-0.3494-0.84321-0.3494z"
+     fill="#ffffff"
+     stroke-width="1.1926"
+     id="path26" />
+</svg>
