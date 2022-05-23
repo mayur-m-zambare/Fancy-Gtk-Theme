@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=fancy-black-light-compact
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=fancy-black-light-compact
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
+

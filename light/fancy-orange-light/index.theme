@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=fancy-orange-light
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=fancy-orange-light
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=fancy-pink-light-compact
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=fancy-pink-light-compact
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=fancy-blue-light
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=fancy-blue-light
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
+

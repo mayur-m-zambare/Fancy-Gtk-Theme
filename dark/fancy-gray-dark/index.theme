@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=fancy-gray-dark
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=fancy-gray-dark
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
+

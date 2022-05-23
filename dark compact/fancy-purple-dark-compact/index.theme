@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=fancy-purple-dark-compact
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=fancy-purple-dark-compact
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
+
